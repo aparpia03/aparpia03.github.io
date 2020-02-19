@@ -1,11 +1,11 @@
 # Site settings
 author: Abbas Parpia
-title: 
+title: The Programming Journey 
 header-img: img/home-bg.png
 email: aparpia03@gmail.com
 copyright_name: Abbas Parpia
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Computer Science 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aparpia03
