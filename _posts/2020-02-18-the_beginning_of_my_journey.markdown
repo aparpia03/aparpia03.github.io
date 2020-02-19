@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The  Beginning of my Journey"
-date:       2020-02-19 01:10:05 +0000
+date:       2020-02-18 20:10:06 -0500
 permalink:  the_beginning_of_my_journey
 ---
 
